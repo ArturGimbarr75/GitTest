@@ -1,1 +1,2 @@
-Some work
+1. Some work
+2. Other task
